@@ -6,6 +6,8 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+# 게임 특징
+#### 3D FPS 게임으로 몬스터를 잡아 무기를 획득한 뒤, 보스를 물리치는 게임입니다.
 # 프로젝트 특징
 #### 1주간에 유니티 공부를 한 뒤, 시작한 첫 게임 프로젝트라 기술적으로 많이 미흡한 경향이 있습니다.
 # **핵심 기능**
