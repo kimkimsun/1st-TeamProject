@@ -6,9 +6,9 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+# 프로젝트 특징
+#### 1주간에 유니티 공부를 한 뒤, 시작한 첫 게임 프로젝트라 기술적으로 많이 미흡한 경향이 있습니다.
 # **핵심 기능**
-### 프로젝트 특징
-1주간에 유니티 공부를 한 뒤, 시작한 첫 게임 프로젝트라 기술적으로 많이 미흡한 경향이 있습니다.
 ### 기능설명
 1. 플레이어는 인벤토리 (퀵 슬롯)을 5개 가질 수 있습니다.
 2. 숫자키로 상호작용이 가능하고, 만약 슬롯에 아이템이 있다면 스위칭이 가능해집니다.
